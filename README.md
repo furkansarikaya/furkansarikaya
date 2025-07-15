@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Furkan Sarıkaya! 👋</h1>
+<h1 align="center">Hi, I'm Furkan SARIKAYA! 👋</h1>
 <h3 align="center">Senior Software Developer | .NET | Microservices | Real-time Data Processing</h3>
 
 <p align="center">

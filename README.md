@@ -1,59 +1,35 @@
-# Hi there, I'm Furkan SARIKAYA! 👋
+# Hey there! 👋 I'm Furkan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Software+Developer;Microservices+Architecture+Expert;Real-time+Data+Processing+Specialist;7%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;Microservices+Enthusiast;Real-time+Data+Lover;Stream+Processing+Geek" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 What I do?
 
-I'm a passionate **Senior Software Developer** with 7+ years of experience specializing in **microservices architecture** and **real-time data processing**. Currently working at **HangiKredi**, one of Turkey's leading fintech platforms, where I develop high-performance, scalable solutions using cutting-edge technologies.
+Greetings from Istanbul! I've been hanging around the backend world for 7+ years now. I especially love working with **microservices**, **real-time data processing**, and **message queues**.
 
-- 🔭 I'm currently working on **real-time data synchronization** and **distributed systems**
-- 🌱 I'm constantly learning about **cloud-native architectures** and **event-driven systems**
-- 💬 Ask me about **microservices**, **message queues**, and **high-performance backend development**
-- 📫 How to reach me: **furkannsarikaya@gmail.com**
-- 📍 Based in **Istanbul, Turkey**
+Currently diving deep into stream processing, data synchronization, and distributed systems in the fintech world.
 
-## 💼 Professional Experience
+## 🛠️ My Favorite Technologies
 
-### 🏢 HangiKredi - Senior Software Developer (2023 - Present)
-- **Real-time Data Processing**: Developed stream processing systems handling live data changes across multiple threads, writing to PostgreSQL and synchronizing in-memory data across multiple pods via RabbitMQ
-- **Microservices Architecture**: Built scalable, high-performance services using RabbitMQ, Redis, Elasticsearch, and PostgreSQL
-- **Monitoring & Observability**: Implemented comprehensive logging and monitoring solutions using Kibana
+```csharp
+var myStack = new TechStack
+{
+    Backend = [".NET Core", "ASP.NET", "Web API"],
+    Messaging = ["RabbitMQ", "SignalR"],
+    Databases = ["PostgreSQL", "Redis", "MongoDB"],
+    Search = ["Elasticsearch", "Kibana"],
+    Architecture = ["Microservices", "Event-driven", "Multi-threading"]
+};
+```
 
-### 🏢 Previous Roles
-- **HangiKredi** - Software Developer (2022-2023)
-- **RND Yazılım** - Software Developer (2018-2022)
-- **Bakiciburada.com** - Software Developer (2018)
-- **Proticaret.org** - Junior Software Developer (2013-2017)
+## 🎯 What Gets Me Excited
 
-## 🛠️ Tech Stack
-
-### Backend & Core
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Microservices & Messaging
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge&logo=microservices&logoColor=white)
-
-### Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Search & Monitoring
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
-### Architecture & Patterns
-![Event Driven](https://img.shields.io/badge/Event%20Driven-FF6B35?style=for-the-badge)
-![Multi-threading](https://img.shields.io/badge/Multi--threading-239120?style=for-the-badge)
-![Stream Processing](https://img.shields.io/badge/Stream%20Processing-2196F3?style=for-the-badge)
+- 🔄 **Real-time Data Processing** - Data flowing through streams just thrills me
+- 🏗️ **Microservices Architecture** - I have escape stories from monoliths
+- ⚡ **Performance Optimization** - I hunt for milliseconds
+- 🔍 **Distributed Systems** - Making complex systems look simple
+- 📊 **In-Memory Synchronization** - Watching the dance of data
 
 ## 📊 GitHub Stats
 
@@ -62,45 +38,47 @@ I'm a passionate **Senior Software Developer** with 7+ years of experience speci
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkansarikaya&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-## 🏆 Key Achievements
+## 🎮 My Daily Routine
 
-- 🚀 **Performance Optimization**: Significantly reduced API response times through efficient caching and query optimization
-- 🔄 **Real-time Systems**: Implemented complex real-time data synchronization across distributed systems
-- 🏗️ **Microservices Migration**: Successfully migrated monolithic applications to microservices architecture
-- 📈 **Scalability**: Built systems handling high-volume financial transactions with 99.9% uptime
-- 🔍 **Monitoring Excellence**: Established comprehensive logging and monitoring practices using ELK stack
+```yaml
+morning:
+  - ☕ Coffee (mandatory)
+  - 📧 Check RabbitMQ queues
+  - 📊 Review logs in Kibana
 
-## 🌟 Areas of Expertise
+afternoon:
+  - 💻 Write code
+  - 🐛 Hunt bugs
+  - 🔧 Performance tuning
 
-```
-🎯 Core Competencies
-├── 🏗️ Microservices Architecture Design
-├── ⚡ Real-time Data Processing & Streaming
-├── 💾 In-Memory Data Synchronization
-├── 🔄 Message Queue Systems (RabbitMQ)
-├── 📊 Performance Optimization & Caching
-├── 🔍 Search & Analytics (Elasticsearch)
-├── 🔧 API Development & Integration
-└── 📈 Scalable System Design
+evening:
+  - 📚 Research new technologies
+  - ✍️ Write on Medium
+  - 🎯 Play with side projects
 ```
 
-## 📫 Let's Connect!
+## 🌟 Fun Facts About Me
 
-<div align="center">
-  
+- 🎯 RabbitMQ's bunny logo makes me happy
+- 📈 I'm obsessed with Redis speed
+- 🔍 I do therapy with Elasticsearch queries
+- ⚡ Writing async/await gives me zen vibes
+- 🏗️ I see microservices as lego blocks
+
+## 📫 Let's Talk!
+
+If you want to chat about backend, microservices, or real-time systems:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkansarikaya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furkansarikaya)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@furkansarikaya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkannsarikaya@gmail.com)
-
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkansarikaya&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=furkansarikaya&color=blue&style=flat-square&label=Visitor+Count" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>🎯 "The best debugging tool is still console.log()" - Me, every day</i>
 </div>
